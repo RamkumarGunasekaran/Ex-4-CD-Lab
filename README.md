@@ -16,8 +16,6 @@ To write a YACC program to recognize a valid variable which starts with a letter
 8.	Enter a statement as input and the valid variables are identified as output.
 # PROGRAM
 ```
-# NAME: DIVYA.A
-# REGISTER NO: 212222230034
 %{
 /* This LEX program returns the tokens for the Expression */
 #include"y.tab.h"
